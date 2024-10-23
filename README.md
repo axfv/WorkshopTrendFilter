@@ -23,7 +23,7 @@ A Flask web application that filters Steam Workshop trend items based on a block
    python app.py
 * Insert your rules into blocklist.txt, ensure there are no empty lines.
 * Access the link you can copy from the console, usually http://127.0.0.1:5000.
-* The format is as follows:
+The format is as follows:
 \[url\]
 specify addon url 1
 specify addon url 2
