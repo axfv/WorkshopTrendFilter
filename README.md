@@ -4,10 +4,7 @@ A Flask web application that filters Steam Workshop trend items based on a block
 
 ## Requirements
 
-- Python 3.x
-- Flask
-- Requests
-- BeautifulSoup
+- Python 3.10
 
 ## Installation
 
