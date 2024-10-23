@@ -12,7 +12,7 @@ A Flask web application that filters Steam Workshop trend items based on a block
 
    ```bash
    git clone https://github.com/axfv/WorkshopTrendFilter.git
-   cd steam-workshop-item-filter   
+   cd WorkshopTrendFilter   
 2. Install required packages::
    ```bash
    pip install -r requirements.txt
