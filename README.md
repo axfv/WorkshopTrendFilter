@@ -1,6 +1,6 @@
 # WorkshopTrendFilter
 
-A Flask web application that filters Steam Workshop trend items based on a block list.
+A Flask web app that filters steam workshop content based on block rules.
 
 ## Requirements
 
